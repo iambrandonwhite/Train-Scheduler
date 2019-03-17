@@ -63,6 +63,6 @@ $(document).ready(function () {
 
       // Handle the errors
   }, function (errorObject) {
-      console.log("Errors handled: " + errorObject.code);
+      // console.log("Errors handled: " + errorObject.code);
   });
 });

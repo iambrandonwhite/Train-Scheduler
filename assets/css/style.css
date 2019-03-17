@@ -1,8 +1,7 @@
 body {
   font-size: 16px;
-  background-image: url("images/banner.jpg");
+  background-image: url("../images/banner.jpg");
   background-repeat: no-repeat;
-  background-position: 0 0;
   background-size: cover;
 }
 
